@@ -1,6 +1,8 @@
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 
+
+//Edit by Abdelrhman
 public class Menu extends JPanel {
     JFrame frame = new JFrame();
     JButton addBtn = new JButton("Add Products"),
